@@ -22,7 +22,7 @@ https://pstodoapp.netlify.app/
 ## Steps for running it locally
 
 ### Clone the repository:
-git clone https://github.com/yourusername/todo-app.git
+[git clone https://github.com/yourusername/todo-app.git](https://github.com/PrateekSethia26/TodoApp)
 
 ### Navigate to the project directory:
 cd todo-app
