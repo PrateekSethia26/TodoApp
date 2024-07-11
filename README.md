@@ -14,3 +14,18 @@ Add a Task: Enter a task in the input field and click the "Add" button.
 Mark as Completed: Click on a task to mark it as completed. Completed tasks will be styled differently to indicate their status.
 
 Delete a Task: Click the "Delete" button next to a task to remove it from the list.
+
+## VISIT THE SITE USING BELOW LINK
+
+https://pstodoapp.netlify.app/
+
+## Steps for running it locally
+
+### Clone the repository:
+git clone https://github.com/yourusername/todo-app.git
+
+### Navigate to the project directory:
+cd todo-app
+
+### Type the command
+npm run dev
