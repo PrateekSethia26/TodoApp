@@ -22,10 +22,10 @@ https://pstodoapp.netlify.app/
 ## Steps for running it locally
 
 ### Clone the repository:
-[git clone https://github.com/PrateekSethia26/todo-app.git](https://github.com/PrateekSethia26/TodoApp)
+``` [git clone https://github.com/PrateekSethia26/todo-app.git](https://github.com/PrateekSethia26/TodoApp) ```
 
 ### Navigate to the project directory:
-cd todo-app
+``` cd todo-app ```
 
 ### Type the command
-npm run dev
+``` npm run dev ```
